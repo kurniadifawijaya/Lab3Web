@@ -22,4 +22,10 @@ langkah ke dua kita masukan order list
 selanjutnya kita membuat unorder list
 ![unorder list](membuatlist3.PNG)
 
-4.
+4.**Membuat Description List**
+
+selanjutnya kita membuat Membuat Description List
+
+![Membuat Description List](membuatlist4.PNG)
+
+
