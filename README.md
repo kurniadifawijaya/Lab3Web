@@ -28,4 +28,8 @@ selanjutnya kita membuat Membuat Description List
 
 ![Membuat Description List](membuatlist4.PNG)
 
+5.**membuat tabel**
 
+selanjutnya kita membuat tabel
+
+![membuat tabel](gambar2.PNG)
