@@ -44,6 +44,8 @@ selanjutnya kita menggabungkan sel data
 
 ![menggabungkan sel data](gambar4.PNG)
 
+5. **Membuat Form**
 
+selanjutnya kita membuat form
 
-
+![membuat form](gambar5.PNG)
