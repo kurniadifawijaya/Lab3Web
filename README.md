@@ -33,3 +33,11 @@ selanjutnya kita membuat Membuat Description List
 selanjutnya kita membuat tabel
 
 ![membuat tabel](gambar2.PNG)
+
+selanjutnya Mengatur Margin dan Padding
+
+![Mengatur Margin dan Padding](gambar3.PNG)
+
+Menggabungkan Sel Data
+
+
