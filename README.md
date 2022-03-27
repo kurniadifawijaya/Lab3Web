@@ -28,7 +28,7 @@ selanjutnya kita membuat Membuat Description List
 
 ![Membuat Description List](membuatlist4.PNG)
 
-5.**membuat tabel**
+* **membuat tabel**
 
 selanjutnya kita membuat tabel
 
@@ -38,6 +38,12 @@ selanjutnya Mengatur Margin dan Padding
 
 ![Mengatur Margin dan Padding](gambar3.PNG)
 
-Menggabungkan Sel Data
+* **menggabungkan sel data**
+
+selanjutnya kita menggabungkan sel data
+
+![menggabungkan sel data](gambar4.PNG)
+
+
 
 
