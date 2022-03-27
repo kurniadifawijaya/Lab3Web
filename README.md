@@ -49,3 +49,9 @@ selanjutnya kita menggabungkan sel data
 selanjutnya kita membuat form
 
 ![membuat form](gambar5.PNG)
+
+* **jawaban**
+
+berikut form yang telah di edit
+
+![jawaban](gambar6.PNG)
